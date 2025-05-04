@@ -94,7 +94,7 @@ const Header = () => {
         <>
             <Navbar expand="lg" className="bg-body-tertiary">
                 <Container>
-                    <Navbar.Brand><Link to="/" className="nav-link">Fukihehe-eCommerce</Link></Navbar.Brand>
+                    <Navbar.Brand><Link to="/" className="nav-link">FukiShop-eCommerce</Link></Navbar.Brand>
 
                     <Navbar.Toggle aria-controls="basic-navbar-nav" />
                     <Navbar.Collapse id="basic-navbar-nav" className="justify-content-end">
